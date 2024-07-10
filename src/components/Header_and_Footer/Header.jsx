@@ -42,7 +42,7 @@ const Header = () => {
                   <div className="dropdown-menu dropdown-menu-Features">
                     <a href="#Reuniting lost pets">Reuniting lost pets</a>
                     <a href="#Pet Grooming">Pet Grooming</a>
-                    <a href="#Pet Hostel">Pet Hostel</a>
+                    <a href="PetHostel">Pet Hostel</a>
                   </div>
                 )}
               </div>
@@ -65,7 +65,7 @@ const Header = () => {
                   <a href="#Add Pets">Add Pets</a>
                   <a href="#Reuniting lost pets">Reuniting lost pets</a>
                   <a href="#Pet Grooming">Pet Grooming</a>
-                  <a href="#Pet Hostel">Pet Hostel</a>
+                  <a href="PetHostel">Pet Hostel</a>
                   <a href="#Pets">Pets</a>
                 </div>
               )}

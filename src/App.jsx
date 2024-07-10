@@ -14,7 +14,7 @@ function App() {
         <Route path="/pet-hostels" element={<PetHostels />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
-        {/* <Route path="/pet-hostelss" element={<PetHostelss />} /> */}
+        <Route path="/PetHostel" element={<PetHostels />} />
       </Routes>
     </Router>
   );
